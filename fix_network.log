@@ -1,0 +1,12 @@
+🔧 Iniciando diagnóstico y reparación de red...
+🔍 Probando conexión con files.oaiusercontent.com...
+PING files.oaiusercontent.com (2606:4700:4400::ac40:9034) 56 data bytes
+64 bytes from 2606:4700:4400::ac40:9034: icmp_seq=1 ttl=59 time=13.3 ms
+64 bytes from 2606:4700:4400::ac40:9034: icmp_seq=2 ttl=59 time=25.2 ms
+64 bytes from 2606:4700:4400::ac40:9034: icmp_seq=3 ttl=59 time=26.9 ms
+64 bytes from 2606:4700:4400::ac40:9034: icmp_seq=4 ttl=59 time=15.8 ms
+
+--- files.oaiusercontent.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3005ms
+rtt min/avg/max/mdev = 13.268/20.302/26.891/5.862 ms
+✅ Ping exitoso. No hay problema de conectividad.
