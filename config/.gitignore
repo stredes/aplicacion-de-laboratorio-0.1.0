@@ -1,0 +1,31 @@
+# 🔹 Archivos y directorios de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# 🔹 Entornos virtuales
+env/
+venv/
+ENV/
+*.env
+*.venv
+
+# 🔹 Archivos de configuración y bases de datos
+*.db
+*.sqlite3
+
+# 🔹 Archivos de logs
+*.log
+
+# 🔹 Archivos temporales de IDE y editores de texto
+.vscode/
+.idea/
+*.swp
+*~
+
+# 🔹 Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db

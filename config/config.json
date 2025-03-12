@@ -1,0 +1,6 @@
+{
+    "devices": [
+        {"port": "COM3", "baudrate": 9600},
+        {"port": "COM4", "baudrate": 9600}
+    ]
+}
